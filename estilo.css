@@ -1,0 +1,15 @@
+:root{
+    --cor-fundo:var #b7a9b2
+    --cor-fundo:var #4a1214
+    --cor-principal:var(--cor-fundo)#4a1214
+    --cor-secundaria:var(--cor-fundo)
+    --cor-destaque:var(--cor-fundo)
+    --cor-texto:var(--cor-fundo)
+}
+body{
+    background-color:var(--cor-fundo) bisque;
+    color: var(--cor-texto);
+    display: flex
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
