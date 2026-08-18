@@ -79,6 +79,5 @@ let perguntaAtual;
 let historiaFinal =""
 
 function mostraPergunta() {
-    
-    
+
 }
