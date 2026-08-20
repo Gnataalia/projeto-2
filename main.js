@@ -78,7 +78,7 @@ let atual = 0
 let perguntaAtual;
 let historiaFinal =""
 
-unction mostraPergunta(){
+function mostraPergunta(){
     if (atual >= perguntas.lentgh) {
         mostraResultado()
         return
