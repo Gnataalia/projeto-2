@@ -10,7 +10,7 @@ body{
     background-color: var(#4a1214);
 }
 .caixa-principal{
-    background-color:var(--cor-fundo) bisque;
+    background-color:var(--cor-fundo) rgb(143, 141, 140);
     color: var(--cor-texto);
     display: flex;
     align-items: center;
