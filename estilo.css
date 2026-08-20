@@ -4,10 +4,10 @@
     --cor-principal:#4a1214;
     --cor-secundaria:#4a1214;
     --cor-destaque:#4a1214;
-    --cor-texto:#d8efff;
+    --cor-texto:#c5d1cc;
 }
 body{
-    background-color: var(--cor-fundo);
+    background-color: var(#4a1214;);
 }
 .caixa-principal{
     background-color:var(--cor-fundo) bisque;
